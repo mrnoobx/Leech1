@@ -59,7 +59,7 @@ USENET_SERVERS = [
     }
 ]
 # Update
-UPSTREAM_REPO = ""
+UPSTREAM_REPO = "https://github.com/mrnoobx/Leech1"
 UPSTREAM_BRANCH = "master"
 # Leech
 LEECH_SPLIT_SIZE = 0
